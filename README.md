@@ -16,7 +16,7 @@ Many more features to be added in the upcoming updates.........
 
 ## Contributors
 
-- Sounak Bhattacharya<sounak1098@gmail.com>
+- Sounak Bhattacharya <sounak1098@gmail.com>
 
 ---
 
