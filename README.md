@@ -9,7 +9,9 @@ This is a Electron App for making Shopping list.
 ## Features
 
 -Add items(manually).
+
 -Clear items (manually and by double clikcing the items added).
+
 Many more features to be added in the upcoming updates.........
 
 ---
